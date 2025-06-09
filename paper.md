@@ -22,9 +22,9 @@ SlumToSmile is a mobile-based developmental system designed to improve the lives
 
 This app empowers NGOs, government bodies, and individual volunteers to document needs, provide services, and track improvements in real time. It is lightweight, user-friendly, and scalable for various urban and semi-urban environments. SlumToSmile is not just a reporting tool—it is a platform for action and collaboration aimed at social transformation.
 
-![screenshot1](images/screenshot1.png)  
-![screenshot2](images/screenshot2.png)  
-![screenshot3](images/screenshot3.png)  
+![screenshot1](images/screenshot1.jpg)  
+![screenshot2](images/screenshot2.jpg)  
+![screenshot3](images/screenshot3.jpg)  
 
 ## Statement of need
 
