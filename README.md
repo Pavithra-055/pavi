@@ -82,11 +82,6 @@ ORCID: 0009-0009-4798-934X
 
 ---
 
-### ✅ Checklist to Complete
 
-- Replace broken image links if any (`images/screenshot1.png`, etc.)
-- Ensure you have a `LICENSE` file (MIT, if not yet created)
-- Ensure your GitHub repository has clear folders like `lib/`, `assets/`, `images/`, etc.
-- Optional: Add a `CONTRIBUTING.md` if you want to guide contributors
 
-Let me know if you want this converted into a GitHub Pages site or if you’d like help writing a `CONTRIBUTING.md` or `LICENSE`.
+
