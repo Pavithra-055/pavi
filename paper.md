@@ -13,7 +13,7 @@ authors:
 affiliations:
   - name: Department of Information Technology, VELS University, Chennai
     index: 1
-date: "2025-06-08"
+date: '2025-06-08'
 bibliography: paper.bib
 ---
 
