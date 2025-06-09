@@ -6,7 +6,7 @@ tags:
   - Flutter
   - Dart
 authors:
-  - name: pavithra R
+  - name: Pavithra R
     orcid: 0009-0009-4798-934X
     affiliation: 1
 affiliations:
@@ -17,12 +17,13 @@ date: 2025-06-08
 
 ## Summary
 
-*SlumToSmile* is a mobile-based developmental system designed to improve the lives of individuals residing in slum areas. Built using Flutter and Dart, this application provides a centralized platform for social workers, welfare trusts, and volunteers to identify and address key issues affecting slum communities, such as education, health, employment, housing, and sanitation.![screenshot1](https://github.com/user-attachments/assets/5207750a-e4d3-4799-aabd-33edb48596b8)
-
-![screenshot2](https://github.com/user-attachments/assets/2def2550-fbc4-4383-bdcf-0b15582d1ac1)
+SlumToSmile is a mobile-based developmental system designed to improve the lives of individuals residing in slum areas. Built using Flutter and Dart, this application provides a centralized platform for social workers, welfare trusts, and volunteers to identify and address key issues affecting slum communities, such as education, health, employment, housing, and sanitation.
 
 This app empowers NGOs, government bodies, and individual volunteers to document needs, provide services, and track improvements in real time. It is lightweight, user-friendly, and scalable for various urban and semi-urban environments. SlumToSmile is not just a reporting tool—it is a platform for action and collaboration aimed at social transformation.
-![screenshot3](https://github.com/user-attachments/assets/493fb282-44b1-4a43-8109-bf970f191aea)
+
+![screenshot1](images/screenshot1.png)  
+![screenshot2](images/screenshot2.png)  
+![screenshot3](images/screenshot3.png)  
 
 ## Statement of need
 
