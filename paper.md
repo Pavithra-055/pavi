@@ -1,3 +1,4 @@
+---
 title: 'SlumToSmile: A Flutter-based Developmental System for Supporting Slum Communities'
 tags:
   - social development
@@ -17,7 +18,7 @@ date: 2025-06-08
 
 ## Summary
 
-SlumToSmile is a mobile-based developmental system designed to improve the lives of individuals residing in slum areas. Built using Flutter and Dart, this application provides a centralized platform for social workers, welfare trusts, and volunteers to identify and address key issues affecting slum communities, such as education, health, employment, housing, and sanitation.
+SlumToSmile is a mobile-based developmental system designed to improve the lives of individuals residing in slum areas. Built using Flutter and Dart, this application provides a centralized platform for social workers, welfare trusts, and volunteers to identify and address key issues affecting slum communities, such as education, health, employment, housing, and sanitation. The application is developed using Flutter [@flutter2023] and Dart [@dart2023].
 
 This app empowers NGOs, government bodies, and individual volunteers to document needs, provide services, and track improvements in real time. It is lightweight, user-friendly, and scalable for various urban and semi-urban environments. SlumToSmile is not just a reporting tool—it is a platform for action and collaboration aimed at social transformation.
 
@@ -33,10 +34,5 @@ Unlike existing apps that focus on a single domain (e.g., health or education), 
 
 ## References
 
-```bibtex
-@misc{flutter2023,
-  title={Flutter - Build apps for any screen},
-  author={{Google}},
-  year={2023},
-  url={https://flutter.dev}
-}
+::: {#refs}
+:::
