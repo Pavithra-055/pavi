@@ -33,6 +33,3 @@ Despite various efforts from NGOs and government agencies, the lack of a unified
 Unlike existing apps that focus on a single domain (e.g., health or education), SlumToSmile brings together all necessary components into one unified system. This makes it easier for social workers and welfare organizations to coordinate their efforts, prioritize urgent cases, and ensure that no community need is overlooked.
 
 ## References
-
-::: {#refs}
-:::
